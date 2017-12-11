@@ -1,0 +1,10 @@
+com\mq\test\config\KafkaConsumerConfig.class
+com\mq\test\repo\CostomersRepo.class
+com\mq\test\storage\MessageStorage.class
+com\mq\test\controller\WebRestController.class
+com\mq\test\services\KafkaProducer.class
+com\mq\test\services\ConstumerService.class
+com\mq\test\services\KafkaConsumer.class
+com\mq\test\config\KafkaProducerConfig.class
+com\mq\test\model\Costumers.class
+com\mq\test\SpringApacheKafkaApplication.class
